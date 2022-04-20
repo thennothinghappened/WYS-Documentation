@@ -9,7 +9,7 @@
 ### Returns: String
 ### Example:
 ```gml
-var adjusted_text = adjust_substrings("/* arabic text here! */");
+var adjusted_text = adjust_substrings(" arabic text here! ");
 ```
 
 This function is only used in `adjust_arabic_text(string)`.

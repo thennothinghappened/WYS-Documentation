@@ -9,7 +9,7 @@
 ### Returns: String
 ### Example:
 ```gml
-var adjusted_text = adjust_foreign_text("/* arabic text here! */");
+var adjusted_text = adjust_foreign_text(" arabic text here! ");
 ```
 At initial inspection, this function seems to add spaces around text.
 This function is only used in `adjust_arabic_text(string)`.
