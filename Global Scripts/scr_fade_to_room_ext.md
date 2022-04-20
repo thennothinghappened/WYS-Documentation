@@ -1,4 +1,4 @@
-## scr_fade_to_room_ext
+## scr_fade_to_room_ext(room_name, is_shortcut)
 |Arg|Type|Description|
 |:--|---|:--|
 |room_name|String|The name of the room to fade to|
