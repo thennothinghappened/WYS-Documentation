@@ -1,6 +1,6 @@
 ### TODO: Confirm interrupt & allow_more_than_once are Bools. Confirm descriptions of args. Is importance ascending or descending order?
 
-## aivl_play_ext(li_loca_keywords)
+## aivl_play_ext(li_loca_keywords, li_script_start, li_script_end, importance, interrupt, allow_more_than_once)
 
 |Arg|Type|Description|
 |:--|---|:--|
