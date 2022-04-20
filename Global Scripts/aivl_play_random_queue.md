@@ -1,4 +1,4 @@
-## aivl_play_random_queue(li_loca_keywords)
+## aivl_play_random_queue(li_loca_keywords, importance, iRandomEnd)
 
 |Arg|Type|Description|
 |:--|---|:--|
