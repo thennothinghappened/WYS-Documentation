@@ -1,5 +1,4 @@
-# TODO: Better explanation needed.
-# TODO: Use real arabic example.
+# TODO: Better explanation needed & Use real arabic example.
 
 ## adjust_arabic_text(string)
 
