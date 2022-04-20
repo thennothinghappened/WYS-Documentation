@@ -1,4 +1,4 @@
-## aivl_play_random_automanage(li_loca_keywords)
+## aivl_play_random_automanage(li_loca_keywords, iRandomEnd)
 
 |Arg|Type|Description|
 |:--|---|:--|
