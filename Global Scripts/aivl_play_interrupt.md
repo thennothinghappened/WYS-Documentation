@@ -1,4 +1,4 @@
-## aivl_play_interrupt(li_loca_keywords)
+## aivl_play_interrupt(li_loca_keywords, importance)
 
 |Arg|Type|Description|
 |:--|---|:--|
