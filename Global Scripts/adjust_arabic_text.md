@@ -1,0 +1,15 @@
+# TODO: Better explanation needed.
+# TODO: Use real arabic example.
+
+## adjust_arabic_text(string)
+
+|Arg|Type|Description|
+|:--|---|:--|
+|string|String|The string to adjust.|
+
+### Returns: String
+### Example:
+```
+var adjusted_text = adjust_arabic_text("/* arabic text here! */");
+```
+The above code will change the string depending on whether it contains certain arabic characters.
