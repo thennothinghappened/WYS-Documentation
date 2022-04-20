@@ -7,6 +7,6 @@
 ### Returns: N/A
 ### Example:
 ```gml
-aivl_event_manual_difficulty_change(global.save_difficulty - difficulty_backup);
+aivl_event_manual_difficulty_change(1);
 ```
-The above code is an exerpt from `obj_levelstyler_Step_0`. This function causes Squid to play a line about the player having manually changed the difficulty higher or lower and either agreeing or disagreeing with the choice.
+This function causes Squid to play a line about the player having manually changed the difficulty higher or lower and either agreeing or disagreeing with the choice.
