@@ -12,8 +12,8 @@ aivl_play_interrupt("boss_increasing_difficulty_01", 3);
 ```
 Will play the line "boss_increasing_difficulty_01" with `importance` of 3.
 
-This is a cut down version of `aivl_play_ext()` which omits `li_script_start`, `li_script_end`, `interrupt` and `allow_more_than_once`:
+This is a cut down version of `aivl_play_ext()` which omits `li_script_start`, `li_script_end`, `interrupt` and `allow_more_than_once`, initialising them to:
 - li_script_start = -1
 - li_script_end = -1
-- interrupt = true
+- interrupt = 1
 - allow_more_than_once = false
