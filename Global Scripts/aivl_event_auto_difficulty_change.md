@@ -6,7 +6,7 @@
 
 ### Returns: N/A
 ### Example:
-```
+```gml
 aivl_event_auto_difficulty_change(1);
 ```
 The above code will cause Squid to say a line about turning up the difficulty.

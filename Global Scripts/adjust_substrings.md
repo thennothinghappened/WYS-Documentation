@@ -8,7 +8,7 @@
 
 ### Returns: String
 ### Example:
-```
+```gml
 var adjusted_text = adjust_substrings("/* arabic text here! */");
 ```
 

@@ -8,7 +8,7 @@
 
 ### Returns: String
 ### Example:
-```
+```gml
 var adjusted_text = adjust_arabic_text("/* arabic text here! */");
 ```
 The above code will change the string depending on whether it contains certain arabic characters.

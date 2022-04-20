@@ -4,7 +4,7 @@ No Arguments.
 
 ### Returns: N/A
 ### Example:
-```
+```gml
 aivl_event_death();
 ```
 The above code will trigger Squid to say a line about the player's death.

@@ -4,11 +4,11 @@ No Arguments.
 
 ### Returns: N/A
 ### Example:
-```
+```gml
 gml_Script_OnAtuoDifficultyChangeUp();
 ```
 This function is called when the player wins a level too easily. This sets the following variables to:
-```
+```gml
 global.save_levels_you_have_to_beat_till_difficulty_can_be_increased_again = 2
 global.save_difficulty = clamp(global.save_difficulty + 1, 0, 3) // Increase the save difficulty, max being 3.
 global.difficulty_was_last_changed_before = false
