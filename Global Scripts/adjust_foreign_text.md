@@ -1,4 +1,4 @@
-# TODO: Better explanation needed & Use real arabic example.
+### TODO: Better explanation needed & Use real arabic example.
 
 ## adjust_foreign_text(string)
 

@@ -1,6 +1,6 @@
 The following is a template structure of how a wiki page should be layed out, using a builtin gamemaker function for example.
 If information is not yet known, such as argument names being undecided or their types not yet known, please leave a message at the top of the file indicating this, like so:
-# TODO: argument 1 type, argument 2 desc.
+### TODO: argument 1 type, argument 2 desc.
 
 *note, following is copied from the gamemaker manual.*
 ## draw_text(x, y, string)
