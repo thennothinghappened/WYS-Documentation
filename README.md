@@ -7,3 +7,4 @@
 ## Help Wanted!
  Currently this is a barebones repo, but I'm working on it.
  Any help in the documentation process, or cleaning up and providing more useful descriptions would be greatly appreciated.
+ If you decide to contribute to this repo, please refer to the template.md file to outline how a page should be structured for consistency.
