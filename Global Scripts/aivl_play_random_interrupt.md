@@ -10,7 +10,6 @@
 ### Example:
 ```gml
 aivl_play_random_interrupt("death_onconveyor_change", 3, 6);
-}
 ```
 The above code will choose a random variation between 1 and 6 of the line "death_onconveyer_change", with an importance of 3.
 This function takes a line and an ending number, and chooses between 1 and `iRandomEnd` variations on the line by appending `_x` (`x` being the generated number) after the line name.
