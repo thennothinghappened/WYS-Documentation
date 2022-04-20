@@ -1,0 +1,2 @@
+# Table of Contents.
+ This is a barebones file which is the beginning of the TOC for the 'manual'. Once more work is done on documentation, this will be used to catagorise each function so that it is easy to figure out which function should be used for what circumstance.
