@@ -1,4 +1,4 @@
-# TODO: Description
+# TODO: Description & Use real arabic example.
 
 ## adjust_substrings(string)
 
