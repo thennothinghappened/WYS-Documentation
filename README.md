@@ -2,7 +2,7 @@
  This repo exists with the goal of providing adaqute documentation for modders on the functions in [Will You Snail](https://store.steampowered.com/app/1115050/Will_You_Snail/).
 
 ## Getting Started
- The file tree of this project is split into global scripts and object scripts. Currently the plan is only to document *functions* (that means anything that starts with *function* or *= function()*, not entire events.)
+ The file tree of this project is split into global scripts and object scripts. Currently the plan is only to document *functions* (that means anything that starts with `function` or `= function()`, not entire events.)
 
 ## Help Wanted!
  Currently this is a barebones repo, but I'm working on it.
