@@ -1,4 +1,4 @@
-## scr_fade_to_room
+## scr_fade_to_room(room_name)
 |Arg|Type|Description|
 |:--|---|:--|
 |room_name|String|The name of the room to fade to|
