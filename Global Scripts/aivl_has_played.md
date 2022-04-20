@@ -1,8 +1,8 @@
-## aivl_has_played(line)
+## aivl_has_played(li_loca_keywords)
 
 |Arg|Type|Description|
 |:--|---|:--|
-|line|String|The localised line in question.|
+|li_loca_keywords|String|The localised line in question.|
 
 ### Returns: Boolean
 ### Example:
