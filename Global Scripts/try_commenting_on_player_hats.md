@@ -4,7 +4,7 @@ No Arguments.
 
 ### Returns: Boolean
 ### Example:
-```
+```gml
 if (!tried_commenting_on_hats && global.coming_from_room != 8) {
     tried_commenting_on_hats = try_commenting_on_player_hats();
     // Optimal way?
