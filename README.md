@@ -11,3 +11,5 @@
 
 ## Contributors
  - thennothinghappened (thennothing#4011)
+ - kenan238 (kenan238#6162)
+ - Kiffolisk
