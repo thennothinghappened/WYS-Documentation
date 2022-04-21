@@ -5,7 +5,7 @@ No Arguments.
 ### Returns: N/A
 ### Example:
 ```gml
-gml_Script_OnAtuoDifficultyChangeUp();
+OnAtuoDifficultyChangeUp();
 ```
 This function is called when the player wins a level too easily. This sets the following variables to:
 ```gml
