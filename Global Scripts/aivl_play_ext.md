@@ -8,7 +8,7 @@
 |li_script_start|Function|Script to run when beginning the line.|
 |li_script_end|Function|Script to run when ending the line.|
 |importance|Real|How important the line is compared to others.|
-|interrupt|Real|Should the line interrupt the currently playing line?|
+|interrupt|Real|0 = Unknown. 1 = Interrupt. 2 = Queue.|
 |allow_more_than_once|Boolean|Can the line play multiple times?|
 
 ### Returns: Boolean
