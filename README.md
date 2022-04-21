@@ -11,6 +11,6 @@
 ## Contributors
  - thennothinghappened (thennothing#4011)
  - kenan238 (kenan238#6162)
- - Kiffolisk
+ - Kiffolisk (GAMERSUNITE#4872)
  - JeremyGamer13 (JeremyGamer13#7984)
  - Soinpro (aZo9_x#6855)
