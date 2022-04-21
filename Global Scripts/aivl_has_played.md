@@ -7,8 +7,9 @@
 ### Returns: Boolean
 ### Example:
 ```gml
-if (aivl_has_played("autodiff_down_first")) {
-    show_message("Line \"autodiff_down_first\" has been played.");
+var line = "autodiff_down_first";
+if (aivl_has_played(line)) {
+    show_message(line + " has been played.");
 }
 ```
 This function returns true if a line of dialogue has already been played, or false if it has not.

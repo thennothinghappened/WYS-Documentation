@@ -11,4 +11,4 @@
 ```gml
 var adjusted_text = adjust_arabic_text(" arabic text here! ");
 ```
-The above code will change the string depending on whether it contains certain arabic characters. This function is called in `loca_adjust_for_font(string)` and `import_method_arabic(string)`.
+The above code will change the string depending on whether it contains certain arabic characters. This function is called in `loca_adjust_for_font()` and `import_method_arabic()`.
