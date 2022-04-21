@@ -1,3 +1,5 @@
+### TODO: DON'T INCLUDE THE GAME'S CODE!!!
+
 ## OnAtuoDifficultyChangeUp()
 
 No Arguments.
