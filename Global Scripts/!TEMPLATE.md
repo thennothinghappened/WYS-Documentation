@@ -10,6 +10,6 @@
 
 ### Returns: 
 ### Example:
-```
+```gml
 
 ```
