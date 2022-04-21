@@ -22,3 +22,4 @@ scr_level_dat_add(30, 4, 344, "A01.1", [34], false, 1, ["SecretPassage"], true)
 ```
 The above code will add room 30 to the level id data, set the level type to 4, set the level icon to the sprite indexed 344, set the level name to A01.1, set level id 34 to be unlocked when entering, sets the level to not be a boss level, sets the chapter to chapter A, sets the exploration point "SecretPassage" to be obtainable in the level, and allows the level to be enabled in a limited build.
 This function is mainly used in ``scr_level_dat_ini``.
+
