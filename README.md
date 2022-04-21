@@ -10,7 +10,7 @@
  If you decide to contribute to this repo, please refer to the GUIDE.md file to outline how a page should be structured for consistency, (you can also use !TEMPLATE.md for a barebones to copy-paste from.) then submit a pull request to either add functions which are undescribed, or better describe an already existing one. Anyone who does this will be added to a list of contributors below and receive my thanks :)
 
 ## How to contribute!
- If you decide you wish to contribute to this project, that's great! If you need help knowing what to do, use this quick step by step guide.
+ If you decide you wish to contribute to this project, that's great! If you have chose to add to the wiki and need help knowing what to do, use this quick step by step guide. *(if you just want to report a problem with the wiki but don't want/know how to fix it, please submit a bug report so I can address it.)*
  1. Switch your game branch to \[Sandbox] (important, or you can't decompile the code.)
  2. Decompile the game's source code using [UndertaleModTool](https://github.com/krzys-h/UndertaleModTool/suites/5994794812/artifacts/206790477) by opening the data.win.
  3. Go to Scripts > Unpack Assets > ExportAllCode.csx and choose an appropriate location.
