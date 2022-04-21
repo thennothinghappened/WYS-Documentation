@@ -1,4 +1,4 @@
-## loca_text(string)
+## loca_text(locatext)
 
 |Arg|Type|Description|
 |:--|---|:--|
