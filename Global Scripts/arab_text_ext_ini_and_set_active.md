@@ -4,10 +4,11 @@
 
 |Arg|Type|Description|
 |:--|---|:--|
-|arabLineBreakModeEnabled|Boolean|Should arabic line break mode be enabled?|
+|arabLineBreakModeEnabled|Boolean|Should Arabic line break mode be enabled?|
 
-### Returns: 
+### Returns: N/A
 ### Example:
 ```
 arab_text_ext_ini_and_set_active(true);
 ```
+This function enables or disables Arabic line break mode.
