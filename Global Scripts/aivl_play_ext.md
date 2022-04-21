@@ -1,4 +1,4 @@
-### TODO: Confirm interrupt & allow_more_than_once are Bools. Confirm descriptions of args. Is importance ascending or descending order?
+### TODO: Confirm allow_more_than_once is Boolean. Confirm descriptions of args. Is importance ascending or descending order?
 
 ## aivl_play_ext(li_loca_keywords, li_script_start, li_script_end, importance, interrupt, allow_more_than_once)
 
@@ -8,7 +8,7 @@
 |li_script_start|Function|Script to run when beginning the line.|
 |li_script_end|Function|Script to run when ending the line.|
 |importance|Real|How important the line is compared to others.|
-|interrupt|Real|Should the line interrupt the currently playing line?|
+|interrupt|Real|0 = Unknown. 1 = Interrupt. 2 = Queue.|
 |allow_more_than_once|Boolean|Can the line play multiple times?|
 
 ### Returns: Boolean
