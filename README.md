@@ -6,7 +6,7 @@
 
 ## Help Wanted!
  Currently this is a pretty barebones repo, but I (and a few others now) are working on it.
- Any help in the documentation process, or cleaning up and providing more useful descriptions would be greatly appreciated. If you decide to contribute to this repo, please refer to `CONTRIBUTING.md` file to outline how to contribute to this project. Anyone who contributes (good) pull requests to this project be added to a list of contributors below and receive my thanks :)
+ Any help in the documentation process, or cleaning up and providing more useful descriptions would be greatly appreciated. If you decide to contribute to this repo, please refer to [CONTRIBUTING](CONTRIBUTING.md) to outline how to contribute to this project. Anyone who contributes (good) pull requests to this project be added to a list of contributors below and receive my thanks :)
 
 ## Contributors
  - thennothinghappened (thennothing#4011)
