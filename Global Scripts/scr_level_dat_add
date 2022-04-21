@@ -10,35 +10,15 @@
 |lvl_icon|Real|The sprite index for the icon.|
 |lvl_name|Real|The name of the level.|
 |unlock_levels|Array|An array containing the levels unlocked when entering. Can be left empty.|
-|lvl_isboss|Real|0 if it is not a boss level, 1 if it is.|
+|lvl_isboss|Boolean|True if the level is a boss level.|
 |lvl_chapter|Real|The chapter the level appears in.|
 |lvl_exploration_points|Array|An array containing all of the exploration points obtainable in the level.|
-|lvl_limitedbuild_available|Real|1 if it is available in a limited build, 0 if it is not.|
+|lvl_limitedbuild_available|Boolean|True if it is available in a limited build.|
 
 ### Returns: N/A
 ### Example:
 ```gml
-scr_level_dat_add(30, 4, 344, "A01.1", [34], 0, 1, ["SecretPassage"], 1)
+scr_level_dat_add(30, 4, 344, "A01.1", [34], false, 1, ["SecretPassage"], true)
 ```
 The above code will add room 30 to the level id data, set the level type to 4, set the level icon to the sprite indexed 344, set the level name to A01.1, set level id 34 to be unlocked when entering, sets the level to not be a boss level, sets the chapter to chapter A, sets the exploration point "SecretPassage" to be obtainable in the level, and allows the level to be enabled in a limited build.
 This function is mainly used in ``scr_level_dat_ini``.
-
-The function does the following:
-```gml
-    ds_list_add(global.li_lvldat_ids, room_id)
-    ds_list_add(global.li_lvldat_types, lvl_type)
-    ds_list_add(global.li_lvldat_deaths, 0)
-    ds_list_add(global.li_lvldat_playtime, 0)
-    ds_list_add(global.li_lvldat_unlocked, 0)
-    ds_list_add(global.li_lvldat_beaten_on_difficulty, -1)
-    ds_list_add(global.li_lvldat_beaten_on_difficulty_underwater, -1)
-    ds_list_add(global.li_lvldat_autodiff_difficulty, -1)
-    ds_list_add(global.li_lvldat_autodiff_playtime, 0)
-    ds_list_add(global.li_lvldat_icons, lvl_icon)
-    ds_list_add(global.li_lvldat_name, lvl_name)
-    ds_list_add(global.li_lvldat_unlockable_levels, unlock_levels)
-    ds_list_add(global.li_lvldat_is_boss, lvl_isboss)
-    ds_list_add(global.li_lvldat_chapter, lvl_chapter)
-    ds_list_add(global.li_lvldat_exploration_points, lvl_exploration_points)
-    ds_list_add(global.li_lvldat_is_available_in_limited_build, lvl_limitedbuild_available)
-```
