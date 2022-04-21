@@ -9,6 +9,17 @@
  Any help in the documentation process, or cleaning up and providing more useful descriptions would be greatly appreciated.
  If you decide to contribute to this repo, please refer to the GUIDE.md file to outline how a page should be structured for consistency, (you can also use !TEMPLATE.md for a barebones to copy-paste from.) then submit a pull request to either add functions which are undescribed, or better describe an already existing one. Anyone who does this will be added to a list of contributors below and receive my thanks :)
 
+## How to contribute!
+ If you decide you wish to contribute to this project, that's great! If you need help knowing what to do, use this quick step by step guide.
+ 1. Switch your game branch to \[Sandbox] (important, or you can't decompile the code.)
+ 2. Decompile the game's source code using [UndertaleModTool](https://github.com/krzys-h/UndertaleModTool/suites/5994794812/artifacts/206790477) by opening the data.win.
+ 3. Go to Scripts > Unpack Assets > ExportAllCode.csx and choose an appropriate location.
+ 4. Open the folder in Visual Studio Code or any other editor with the ability to search the contents of files.
+ 5. You can now search through every bit of code in the game! I've been going through global functions alphabetically, but you can start anywhere, as long as it starts with `gml_GlobalScript_`. Remember that each file can contain multiple functions!!! (if you miss this, that means I'll ask you to add your missing functions to your pull request before I can accept it!)
+ 6. Use git or GitHub Desktop (I use git most of the time but having a GUI is especially useful on a project like this) to fork this repo, and add the functions to the Global Scripts folder using `!TEMPLATE.md` as a base. If you are unfamilar with Markdown, I suggest you look into that first so you can keep the nice formatting.
+ 7. Once you've documented some functions, or made edits to existing documentation if needed, submit a pull request to have your documentation merged.
+ Thanks for reading!
+
 ## Contributors
  - thennothinghappened (thennothing#4011)
  - kenan238 (kenan238#6162)
