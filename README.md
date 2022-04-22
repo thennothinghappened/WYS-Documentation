@@ -14,3 +14,6 @@
  - Kiffolisk (GAMERSUNITE#4872)
  - JeremyGamer13 (JeremyGamer13#7984)
  - Soinpro (aZo9_x#6855)
+
+## Is this allowed?
+ ![Jonas says yes](is_this_allowed.png)
