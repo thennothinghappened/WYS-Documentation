@@ -1,3 +1,5 @@
+# note: I am no longer involved in modding of WYS and have moved onto other projects. As such, I'm archiving this repo.
+
 # WYS-Documentation
  This repo exists with the goal of providing adaqute documentation for modders on the functions in [Will You Snail](https://store.steampowered.com/app/1115050/Will_You_Snail/).
 
